@@ -1,0 +1,14 @@
+{
+  "name": "timestampmicroservice",
+  "version": "1.0.0",
+  "description": "returns both the Unix timestamp and the natural language form if a date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aswath",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
